@@ -9,8 +9,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 ## Favorite things about CS193
 
 -CS193 is an easy class and I can learn more about computers.
+
 -CS193 is not an English class.
+
 -CS193 is a key class in getting my major.
+
 -CS193 is a very useful class for learning about programming tools.
 
 ### Markdown
