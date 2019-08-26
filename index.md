@@ -6,6 +6,13 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+## Favorite things about CS193
+
+-CS193 is an easy class and I can learn more about computers.
+-CS193 is not an English class.
+-CS193 is a key class in getting my major.
+-CS193 is a very useful class for learning about programming tools.
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
